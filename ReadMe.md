@@ -56,14 +56,14 @@ El análisis global de la operativa de Sakila revela los siguientes hallazgos cl
 ├── data/
 │   ├── BBDD_Proyecto_shakila_sinuser.sql            # Base de datos para el proyecto
 ├── docs/
-│   ├── EnunciadoDataProject_SQL.Lógica.pdf          # Consultas a realizar
 │   ├── Consultas SQL.txt                            # Respuesta a las consulta
+│   ├── EnunciadoDataProject_SQL.Lógica.pdf          # Consultas a realizar
 │   └── postgres-Proyecto_Shakila-public.png         # Imagen del diagrama
 └── README.md                                        # Documentación principal del repositorio
 ```
 
 ## 🗺️ 4. Esquema y Modelo Entidad-Relación (ER)
-![Esquema Entidad-Relación](docs/postgres-Proyecto_Shakila-public.png)
+![Diagrama ER](docs/postgres-Proyecto_Shakila-public.png)
 
  ## 🤝 Contribuciones
 
