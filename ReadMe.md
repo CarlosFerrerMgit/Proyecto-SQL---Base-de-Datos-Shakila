@@ -63,7 +63,8 @@ El análisis global de la operativa de Sakila revela los siguientes hallazgos cl
 ```
 
 ## 🗺️ 4. Esquema y Modelo Entidad-Relación (ER)
-![Diagrama ER](docs/postgres-Proyecto_Shakila-public.png)
+<img width="764" height="684" alt="image" src="https://github.com/user-attachments/assets/2e5cf91b-3527-44c7-875f-64fe82049399" />
+
 
  ## 🤝 Contribuciones
 
