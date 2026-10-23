@@ -56,7 +56,7 @@ El análisis global de la operativa de Sakila revela los siguientes hallazgos cl
 ├── data/
 │   ├── BBDD_Proyecto_shakila_sinuser.sql            # Base de datos para el proyecto
 ├── docs/
-│   ├── Consultas SQL.txt                            # Respuesta a las consulta
+│   ├── Consultas SQL.sql                            # Respuesta a las consulta
 │   ├── EnunciadoDataProject_SQL.Lógica.pdf          # Consultas a realizar
 │   └── postgres-Proyecto_Shakila-public.png         # Imagen del diagrama
 └── README.md                                        # Documentación principal del repositorio
